@@ -1,4 +1,3 @@
-# 💫 About Me:
 ## Hi there 👋, I'm Maksim Astrakhantsev<br><br>
 
 > *«Without data you're just another person with an opinion» — W. Edwards Deming*<br><br>
