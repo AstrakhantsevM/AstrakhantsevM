@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi there 👋, I'm Maxim Astrakhantsev<br><br>
+## Hi there 👋, I'm Maksim Astrakhantsev<br><br>
 
 > *«Without data you're just another person with an opinion» — W. Edwards Deming*<br><br>
 
@@ -18,7 +18,7 @@ If a task can be automated without losing quality, **it absolutely must be autom
 ### 🛠️ Tech Stack & Skills<br>
 - **Languages:** Python, SQL, JavaScript, HTML/CSS
 - **Data & Analytics:** PostgreSQL, Yandex DataLens, ETL pipelines, A/B Testing, Econometrics
-- **GIS & Spatial Analysis:** GeoPandas, Yandex Maps API, Geographic Information Systems
+- **GIS & Spatial Analysis:** GeoPandas, Geographic Information Systems
 - **Applied AI:** LLM Integrations (Mistral, Grok, Gemini), Prompt Engineering
 - **Product:** Agile, MVP design, Unit-economics<br><br>
 
