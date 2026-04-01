@@ -8,7 +8,7 @@ I am a Data Analyst and GIS Developer with practical experience in BI-systems, s
 ### 🔭 Current Focus & Goals<br>
 - 💼 **Currently working** as a Junior Analyst, building management dashboards in Yandex DataLens and designing PostgreSQL architectures.
 - 🌱 **Currently learning** Machine Learning frameworks and advanced data science concepts.
-- 💻 **Working on** [**LamaDough**](link-to-repo) — a local personal finance tracker built using the MVC methodology with a PostgreSQL database.
+- 💻 **Working on** [**LamaDough**](https://github.com/AstrakhantsevM/LamaDough) — a local personal finance tracker built using the MVC methodology with a PostgreSQL database.
 - 🗺️ **GIS & Demographics:** Extensive experience working with demographic data (Rosstat), creating web dashboards, and conducting spatial analysis.
 - 👯 **Looking to collaborate on** Open Source projects where I can contribute my data/backend skills and learn from the community.<br><br>
 
